@@ -1,4 +1,4 @@
-<h2>FUNKHUNTERS</h2>
+<h2>FUNKHUNTER</h2>
 Find all the cnames of the top100k websites
 
 <h2>To Use</h2>
