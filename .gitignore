@@ -1,0 +1,6 @@
+output/
+cnames/
+venv/
+diffs/
+top100.csv
+
